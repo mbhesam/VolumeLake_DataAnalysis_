@@ -1,0 +1,5 @@
+level name ,definition,elevation in m.a.s.l,volume
+ZT,deepest drawdown water level,895,1
+ZA,minimum opeational water level,905,5
+ZO,maximum opeational water level,930,62
+ZK,maximum dam crown level,934,80
