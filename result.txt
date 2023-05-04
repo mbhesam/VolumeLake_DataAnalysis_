@@ -1,0 +1,24 @@
+*** Solution 1 ***
+volume of pool Beta is: 7 Mio.m³
+*** Solution 2 ***
+time of pumping and turbining in UHPP & plot volumestime of pumping: 9.0 untill 12.0
+time of pumping: 14.0 untill 18.0
+time of pumping: 21.0 untill 3
+time of turbining: 5.0 untill 9.0
+time of turbining: 12.0 untill 14.0
+time of turbining: 18.0 untill 21.0
+
+*** Solution 3 ***
+inflow/outflow of Pool Beta
+*** Solution 4 ***
+pump storage volume in lake is 7 Mio.m³
+*** Solution 5 ***
+maximum operational water level in reservoir is 930 m.a.s.l
+*** Solution 6 ***
+bottom outlet is located at 895 m.a.s.l
+*** Solution 7 ***
+annual storage volume of reservoir is volume of reservoir without dead volume and pump storage:  50 Mio.m³
+*** Solution 8 ***
+Maximum Fall Head for UHPP happens when Upper Reservoir in its maximum level AND Lake Alpha in its minimum level. This happens at the end of August, 3 - 5 o`clockDelta h: 311.0 mMinimum Fall Head for UHPP happens when Upper Reservoir in its minimum level AND Lake Alpha in its maximum level. This happens at the end of April, 9 o´clockDelta h: 278.0 m
+*** Solution 9 ***
+Between the start of May and the end of August, Lake Alpha Volume goes from Maximum Operational Volume to Minimum Operational Volume,And since there are 2 outflow (to LHPP and to Alphabeta Creek), we can say turbine discharge in the LHPP has 7.5 m³/s'MonthVolume' object has no attribute 'plot_All'
